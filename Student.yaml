@@ -1,0 +1,28 @@
+title: Student
+	name: Olha
+	yearOfStudy: 2
+	dateOfBirth: 1987-05-01
+
+	pointsForCourse: 
+		Min: 160.1
+		Max: 200.0
+
+	isMasterDegree: true
+	previousEducation:|				#|: All live breaks are significant.
+		Cherkasy school \#3, 
+		and Cherkasy state University
+
+	friends:>						#>: Each line break is folded to space. It removes the leading whitespace for each line.
+		Julia now in UA, 
+		Olha now in SP, 
+		Julia now in PL
+
+	coworkers: [Alex, Mary, Kate]	#List members can also be enclosed in square brackets ([…]) with members separated by commas (,).
+
+
+	favoriteSports:
+		- "Tennis"					#list members with each member on a separate line
+		- "Snowboard"
+
+# This is a YAML Comment
+
