@@ -1,0 +1,37 @@
+<?xml version ="1.0" encoding ="UTF-8" ?>
+<Student>
+	<name>Olha</name>
+	<yearOfStudy  category="QA">2</yearOfStudy>
+	<pointsForCourse>160.1</pointsForCourse>
+	<dateOfBirth>1987-05-01</dateOfBirth>
+	<isMasterDegree>True</isMasterDegree>
+	<previousEducation>
+		<school>Cherkasy school #3</school>
+		<university>Cherkasy state University</university>
+		<pHD>null</pHD>
+	</previousEducation>
+	<friends>
+		<friend>
+			<name>Julia</name>
+			<currentLocation>UA</currentLocation>
+		</friend>
+		<friend>
+			<name>Olha</name>
+			<currentLocation>SP</currentLocation>
+		</friend>
+		<friend>
+			<name>Julia</name>
+			<currentLocation>PL</currentLocation>
+		</friend>
+	</friends>
+	<coworkers>
+		<name>Alex</name>
+		<name>Mary</name>
+		<name>Kate</name>
+	</coworkers>
+	<sports category="Favourite">
+		<name>Tennis</name>
+		<name>Snowboard</name>
+	</sports>
+</Student>
+</xml>

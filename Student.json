@@ -1,0 +1,36 @@
+{
+  "title": "Student",
+  "name":"Olha",
+  "yearOfStudy": 2,
+  "dateOfBirth": "1987-05-01",
+  "pointsForCourse": 160.1,
+  "isMasterDegree": true,
+  "previousEducation": {
+    "school": "Cherkasy school #3",
+    "university": "Cherkasy state University",
+    "PHD": "NULL"
+  },
+  "friends": [
+    {
+      "name": "Julia",
+      "currentLocation": "UA"
+    },
+    {
+      "name": "Olha",
+      "currentLocation": "SP"
+    },
+    {
+      "name": "Julia",
+      "currentLocation": "PL"
+    }
+  ],
+  "coworkers": [
+    "Alex",
+    "Mary",
+    "Kate"
+  ],
+  "favoriteSports": [
+    "Tennis",
+    "Snowboard"
+  ]
+}
